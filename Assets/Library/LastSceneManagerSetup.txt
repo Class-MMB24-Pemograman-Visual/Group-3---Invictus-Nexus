@@ -1,0 +1,6 @@
+sceneSetups:
+- path: C:/Users/HP/Patways Junior Kel 3/Unity-Project---Invictus-Nexus/Unity-Project---Invictus-Nexus/Unity-Project---Invictus-Nexus/Assets/Prototype
+    2.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
